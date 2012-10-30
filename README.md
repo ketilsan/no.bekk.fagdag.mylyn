@@ -1,0 +1,2 @@
+no.bekk.fagdag.mylyn
+====================
