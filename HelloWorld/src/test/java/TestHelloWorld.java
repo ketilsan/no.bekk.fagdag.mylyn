@@ -9,6 +9,7 @@ public class TestHelloWorld {
 	public void test() {
 		assertTrue(false);
 		
+		assertTrue(false);
 	}
 	
 	
