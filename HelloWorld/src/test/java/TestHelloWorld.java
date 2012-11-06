@@ -7,7 +7,7 @@ public class TestHelloWorld {
 
 	@Test
 	public void test() {
-		assertTrue(true);
+		assertTrue(false);
 	}
 	
 	
