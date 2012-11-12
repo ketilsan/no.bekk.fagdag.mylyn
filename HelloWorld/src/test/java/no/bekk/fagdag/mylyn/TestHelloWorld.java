@@ -1,6 +1,7 @@
+package no.bekk.fagdag.mylyn;
 import static org.junit.Assert.*;
 
-import no.bekk.fagdag.mylyn.HelloWorld;
+import no.bekk.fagdag.mylyn.App;
 
 import org.junit.Test;
 
@@ -9,7 +10,7 @@ public class TestHelloWorld {
 
 	@Test
 	public void testHelloWorld() {
-		HelloWorld helloWorld = new HelloWorld();
+		App helloWorld = new App();
 		assertEquals("Heisann Sveisann", helloWorld.sayHello());
 	}
 	
