@@ -9,7 +9,7 @@ public class App {
 	
 	
 	public String sayHello() {
-		return "Heisann Sveisann123";
+		return "Hello World!";
 	}
 	
 	
