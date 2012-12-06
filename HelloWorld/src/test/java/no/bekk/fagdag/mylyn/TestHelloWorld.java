@@ -11,6 +11,6 @@ public class TestHelloWorld {
 	@Test
 	public void testHelloWorld() {
 		App helloWorld = new App();
-		assertEquals("Hello BEKK!", helloWorld.sayHello());
+		assertEquals("Hello javaBin!", helloWorld.sayHello());
 	}
 }
